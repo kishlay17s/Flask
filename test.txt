@@ -1,1 +1,2 @@
-this is my doc
+this is my doc.
+Hi how are u
